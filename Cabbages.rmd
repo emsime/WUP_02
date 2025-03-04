@@ -67,4 +67,6 @@ I reject the null hypothesis because the chamces are an extremely small number a
 
 # Discussion and Conclusion
 
+We first examined the boxplot for VitC adn found the difference in average between c39 and c52. We also found that they are statistically different. We then examined the numerical results in which we found the values of c39 and c52. Lastly, we wrote the hypothesis in inferential results which we rejected the null hypothesis because the chances were extremely low. This made c39 and c52 significantly different.
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
